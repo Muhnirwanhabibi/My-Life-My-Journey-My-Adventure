@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Biography About Me
 
-You can use the [editor on GitHub](https://github.com/Muhnirwanhabibi/My-Life-My-Journey-My-Adventure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Perkenalkan Nama Saya Muhammad Nirwan Habibi Umur Saya 17 Tahun. Saya Lahir Di Muara Aman Sebuah Daerah Di Provinsi Bengkulu Di Daerah Sumatra, Indonesia. Saya Lahir Pada Tahun 2001. Saya Berdomisili Di Kota Bogor daerah Bantarkemang Bogor Timur.
+<img src="Foto Bandara.jpg"/>
+<img src="PIC 01.jpg"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Riwayat Pendidikan
 
-```markdown
-Syntax highlighted code block
+Pendidikan Awal Saya Pada Saat Berumur 5 Tahun Yaitu Bersekolah Taman Kanak-Kanak Assaidiyah. Disana Saya Bersekolah Selama 2 Tahun. Kemudian Di Tahun 2007 Saya Memasuki Jenjang Sekolah Dasar. Selama 5 Tahun Saya Bersekolah di SDN 1 Cipanas. Kemudian Saat Kelas 6 SD Saya Pindah Dari Cipanas Ke Kota Bogor dan Melanjutkan di SDN Bantarkemang 1. Selanjutnya Pada Tahun 2013 Saya Bersekolah Di SMPN 2 Kota Bogor. Lalu Pada Tahun 2016 Saya Melanjutkan Jenjang Pendidikan Saya di SMK-SMAK Bogor.
+<img src="Graduation Day 1.jpg"/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Idola
 
-**Bold** and _Italic_ and `Code` text
+Saya adalah salah satu dari fans ajang balapan F1 atau biasa kita kenal dengan Formula One. Salah satu pembalap F1 Terkenal dan merupakan legenda dari ajang itu sendiri adalah tidak lain tidak bukan Michael Schumacher. Dengan gelar juara dunia pembalap terbanyak yang pernah diraih oleh seorang pembalap yaitu 7 Kali WDC (World Drivers Championship). Gelar ini diraihnya pada tahun 1994,1995,2000,2001,2002,2003, dan 2004. Mengapa saya mengagumi Michael Schumacher? Karena saya mengagumi keahlian mengemudinya, dan kecepatannya ketika menggeber mobil balap F1. Apalagi mobil Ferrari yang dikendarainya. 
+<img src="MSC.jpg"/>
+<img src="MSC 2.jpg"/>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Cita-Cita
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Muhnirwanhabibi/My-Life-My-Journey-My-Adventure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Saya Igin Sekali Mengunjungi 2 Tempat. Yang Pertama Saya Ingin Sekali Mengunjungi Balapan F1 yaitu Di Monaco Mendengar Mobil Balap Dengan Suaranya Yang Khas, Atmosfir Balapan, Serta Pacuan Mesin Yang Sangat Seru Untuk Dinikmati.
+<img src="Foto Website Edit 1.jpg"/>
 
-### Support or Contact
+Lalu Saya Juga Ingin Sekali Mengunjungi Markas Klub Sepakbola Kesukaan Saya Yaitu Old Trafford, Kandang Dari Klub Manchester United. MengunjungI Sir Alex Ferguson & Stretford End Merupakan Suatu Keinginan Terbesar Saya.
+<img src="Old Trafford KKPI.jpg"/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+For More Info About Me Check My Instagram
+@habibinirwan.m18
